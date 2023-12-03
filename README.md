@@ -12,6 +12,7 @@ You don't need to install anything. You can open this in any browser on your com
 
 # Link to deployed application
 
+Work Day Scheduler: https://sivanishanthar.github.io/Work-Day-Scheduler/
 # License
 
 MIT License
